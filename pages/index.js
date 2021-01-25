@@ -5,6 +5,7 @@ import QuizLogo from '../src/components/QuizLogo'
 import QuizBackground from '../src/components/QuizBackground'
 import Footer from '../src/components/Footer'
 import GitHubCorner from '../src/components/GitHubCorner'
+import Head from 'next/head'
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -27,6 +28,11 @@ export const QuizContainer = styled.div`
 export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
+      <Head>
+        <title>AluraQuiz</title>
+        <meta property="og:image" content="https://i.pinimg.com/originals/bd/4c/23/bd4c236086fa1bb4bbcc8e6cdffdf785.png" />
+        <meta property="og:image:type" content="image/png" />
+      </Head>
       <QuizContainer>
         <QuizLogo />
         <Widget>
