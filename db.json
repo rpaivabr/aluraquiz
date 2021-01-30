@@ -1,28 +1,136 @@
 {
-    "bg": "https://i.pinimg.com/originals/bd/4c/23/bd4c236086fa1bb4bbcc8e6cdffdf785.png",
-    "title": "Quiz LoL da Alura",
-    "description": "Teste os seus conhecimentos sobre League of Legends e vamos ver se você irá conseguir sair do Prata IV (Eterno Bronze V)",
+    "bg": "https://epicplay.com/wp-content/uploads/2019/02/super-nintendo-1200x833.jpg.webp",
+    "title": "Quiz Jogos Super Nintendo da Alura",
+    "description": "Teste os seus conhecimentos sobre esse clássico console que ficou imortalizado em nossos s2s",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media.giphy.com/media/iihCIE7BEGMNMywMZI/giphy.gif",
+        "title": "No jogo Donkey Kong Country, quais são os dois personagens principais?",
+        "description": "",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Donkey Kong e Diddy Kong",
+          "Cranky Kong e Diddy Kong",
+          "Donkey Kong e Funky Kong",
+          "Diddy Kong e Dixie Kong",
+          "Cranky Kong e Donkey Kong"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/sOAwgNXAGmuwo/giphy.gif",
+        "title": "Em Super Mario World, qual o nome do dinossauro que Mario tem como parceiro?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "Luigi",
+          "Peach",
+          "Yoshi",
+          "Bowser",
+          "Toad"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PkCDv7CIK8d2M/giphy.gif",
+        "title": "Em Chrono Trigger, qual dos parceiros de Crono mora em 2300?",
+        "description": "",
+        "answer": 4,
+        "alternatives": [
+          "Frog",
+          "Marle",
+          "Lucca",
+          "Magus",
+          "Robo"
+        ]
+      },
+      {
+        "image": "https://tenor.com/view/modoallejo-allejo-copa-2018-futebol-gif-14342014.gif",
+        "title": "Em International Superstar Soccer Deluxe, quantos jogos se têm disponíveis no modo 'Scenario'?",
+        "description": "",
+        "answer": 4,
+        "alternatives": [
+          "7 jogos",
+          "15 jogos",
+          "11 jogos",
+          "14 jogos",
+          "12 jogos"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/psmjYov0chdqL9Uysz/giphy.gif",
+        "title": "Quantas edições do jogo 'Bomberman' foram feitas para o Super Nintendo?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "1 edição",
+          "3 edições",
+          "4 edições",
+          "5 edições",
+          "9 edições"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/j2GJzqC3eTdplIYcjJ/giphy.gif",
+        "title": "Em 'Donkey Kong Country 3', qual o nome do chefe final?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "King K.Rool",
+          "Baron K.Roolenstein",
+          "Captain K.Rool",
+          "King K.Roolestein",
+          "Baron K.Rool"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/QI9Xx3iPdZrkQ/giphy.gif",
+        "title": "Em Tiny e Toon Wild e Wacky Sports quantos participantes são?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "4 participantes",
+          "6 participantes",
+          "8 participantes",
+          "10 participantes",
+          "11 participantes"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/RfHaB5Gas0SeId9oVo/giphy.gif",
+        "title": "Quantos finais há no Donkey Kong Country 2?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "1 final",
+          "2 finais",
+          "3 finais",
+          "4 finais",
+          "5 finais"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/oOLCPAF5bKJ3Hge4VR/giphy.gif",
+        "title": "Em Super Mario World 2: Yoshi's Island, quais os principais itens a serem recolhidos durante o jogo?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "Flores, Cogumelos e Ovos",
+          "Moedas Vermelhas, Ovos e Moedas de Ouro",
+          "Flores, Moedas Vermelhas e Estrelas",
+          "Estrelas, Moedas Vermelhas e Cogumelos",
+          "Ovos, Moedas de Ouro e Estrelas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/aPofBCH6cKxGtDSLXt/giphy.gif",
+        "title": "Ainda em Yoshi's Island, qual o nome do cachorro que ajuda Yoshi nas partes com espinhos?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+          "Poochy",
+          "Snoopy",
+          "Scooby",
+          "Sleppy",
+          "Peppy"
         ]
       }
     ],
