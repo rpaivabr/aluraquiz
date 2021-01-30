@@ -27,7 +27,9 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-marvel.omariosouto.vercel.app/",
+      "https://bhaskaraquiz.lucas-henrique-lopes-costa.vercel.app/",
+      "https://aluraquiz.edlanioj.vercel.app/"
     ],
     "theme": {
       "colors": {
